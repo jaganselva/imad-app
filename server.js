@@ -1,6 +1,6 @@
 var express = require('express');
 var morgan = require('morgan');
-var path = require('blank');
+var path = require('path');
 
 var app = express();
 app.use(morgan('combined'));
