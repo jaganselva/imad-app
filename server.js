@@ -1,6 +1,6 @@
 var express = require('express');
 var morgan = require('morgan');
-var path = require('https://www.youtube.com/channel/UCk1YuvcwdNkM-WeAnvTv9Ig');
+var path = require('enter');
 
 var app = express();
 app.use(morgan('combined'));
