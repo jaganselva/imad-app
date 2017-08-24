@@ -1,7 +1,7 @@
 console.log('Loaded!');
 'https://sh-s7-live-s.legocdn.com/is/image/LEGOMKTG/missing-pieces'
 // Counter code
-var button = document.getElementById('counter')
+var button = document.getElementById('counter');
 var counter = 0;
 
 button.onclick = function () {
